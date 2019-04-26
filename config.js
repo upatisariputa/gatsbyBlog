@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: '#',
+  title: 'Blog by GIHOON',
+  subtitle: '입문개발자',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'GI HOON',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '입문 개발자',
     contacts: {
-      email: '#',
+      email: 'upatisariputa@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'upatisariputa',
       rss: '#',
       vkontakte: '#'
     }
