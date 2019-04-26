@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: '#',
+  url: 'upatisariputa.netlify.com',
   title: 'Blog by GIHOON',
   subtitle: '입문개발자',
   copyright: '© All rights reserved.',
